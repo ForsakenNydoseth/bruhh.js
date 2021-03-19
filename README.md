@@ -73,6 +73,7 @@ const bruhh = new bruhh()
 /* The starting scale is the minimum scale your element will take (Scale ratio is startingScale + (pulseRatio * currentPulse)).
  * Value in percentage between 0 and 1
  * Default: 0.75
+ * Aaaaaaaaaaaaaaaaaaaaaaaaaaah why did i do this shittttttttttttt
  */
 bruhh.startingScale = value
 
