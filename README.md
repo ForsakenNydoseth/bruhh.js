@@ -9,7 +9,7 @@
 Dat: [https://ForsakenNydoseth.github.io/bruhh.js/](https://ForsakenNydoseth.github.io/bruhh.js/)
 
 
-Getting started
+install
 ===============
 
 Install with npm:
