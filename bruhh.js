@@ -99,7 +99,7 @@
 
     this.createSourceFromAudioElement = function(audioElement) {
       audioElement.setAttribute(
-        'rythm-connected',
+        'bruhh-connected',
         _this.connectedSources.length
       )
       var source = _this.audioCtx.createMediaElementSource(audioElement)
@@ -110,7 +110,7 @@
     this.connectExternalAudioElement = function(audioElement) {
       _this.audio = audioElement
       _this.currentInputType = _this.inputTypeList['EXTERNAL']
-      var connectedIndex = audioElement.getAttribute('rythm-connected')
+      var connectedIndex = audioElement.getAttribute('bruhh-connected')
       if (!connectedIndex) {
         _this.source = _this.createSourceFromAudioElement(_this.audio)
       } else {
@@ -679,12 +679,12 @@
     this.maxValueHistory = Analyser$1.maxValueHistory
     this.dancer = dancer
     this.rythms = []
-    this.addRythm('rythm-bass', 'pulse', 0, 10)
-    this.addRythm('rythm-medium', 'pulse', 150, 40)
-    this.addRythm('rythm-high', 'pulse', 400, 200)
+    this.addRythm('bruhh-bass', 'pulse', 0, 10)
+    this.addRythm('bruhh-medium', 'pulse', 150, 40)
+    this.addRythm('bruhh-high', 'pulse', 400, 200)
     this.animationFrameRequest = void 0
   }
 
   return Rythm$1
 })
-//# sourceMappingURL=rythm.js.map
+//# sourceMappingURL=bruhh.js.map
