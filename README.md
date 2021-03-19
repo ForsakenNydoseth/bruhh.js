@@ -1,12 +1,12 @@
 # Contribute
 
 
-<♫/> bruhh.js - v2.2.5
+<♫/> bruhh.js - 0.0.fuckyou
 ======================
 
-[![Build Status](https://travis-ci.org/Okazari/bruhh.js.svg?branch=master)](https://travis-ci.org/Okazari/bruhh.js)
+[![Build Status](https://travis-ci.org/ForsakenNydoseth/bruhh.js.svg?branch=master)](https://travis-ci.org/ForsakenNydoseth/bruhh.js)
 
-Demo at: [https://okazari.github.io/bruhh.js/](https://okazari.github.io/bruhh.js/)
+Demo at: [https://ForsakenNydoseth.github.io/bruhh.js/](https://ForsakenNydoseth.github.io/bruhh.js/)
 
 A JavaScript library that makes your page dance.
 
@@ -24,7 +24,7 @@ Or get from a CDN:
 
 ```
 https://unpkg.com/bruhh.js/
-https://cdnjs.cloudflare.com/ajax/libs/bruhh.js/2.2.5/bruhh.min.js
+https://cdnjs.cloudflare.com/ajax/libs/bruhh.js/0.0.fuckyou/bruhh.min.js
 ```
 
 Good old way
@@ -211,7 +211,7 @@ Here are the built-in dances and their options:
   + from: Array of integer between 0 and 255 corresponding to a RGB color. Default: `[0,0,0]`
   + to: Array of integer between 0 and 255 corresponding to a RGB color. Default: `[255,255,255]`
 
-To see each visual effect, you can go to the [Demo](https://okazari.github.io/bruhh.js/).
+To see each visual effect, you can go to the [Demo](https://ForsakenNydoseth.github.io/bruhh.js/).
 
 Custom dance type
 -----------------
@@ -309,4 +309,4 @@ class Dancer {
 
 License: GNU GPL
 
-Author: [@OkazariBzh](https://twitter.com/OkazariBzh)
+Author: [@ForsakenNydosethBzh](https://twitter.com/ForsakenNydosethBzh)
